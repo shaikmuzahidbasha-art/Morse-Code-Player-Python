@@ -1,0 +1,7 @@
+.venv/
+venv/
+.idea/
+__pycache__/
+*.pyc
+tts_temp.mp3
+morse_output.wav

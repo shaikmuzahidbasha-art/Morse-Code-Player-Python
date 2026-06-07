@@ -1,0 +1,4 @@
+numpy
+gtts
+playsound
+pyperclip
