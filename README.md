@@ -26,7 +26,15 @@ A Python GUI application that converts Text ↔ Morse Code, plays Morse audio in
 
 ### Main GUI
 
-![GUI](screenshots/main_gui.png)
+![Main GUI](main_gui.jpg)
+
+### Text to Morse
+
+![Text to Morse](text_to_morse.jpg)
+
+### Morse to Text
+
+![Morse to Text](morse_to_text.jpg)
 
 ## Project Report
 
